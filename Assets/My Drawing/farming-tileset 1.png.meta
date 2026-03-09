@@ -1,0 +1,4108 @@
+fileFormatVersion: 2
+guid: 581354677d4445146a9c276c330a7722
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8696884138779600838
+    second: farming-tileset 1_0
+  - first:
+      213: 5417410013640177459
+    second: farming-tileset 1_1
+  - first:
+      213: -4465650916329312770
+    second: farming-tileset 1_2
+  - first:
+      213: 6323376021060137686
+    second: farming-tileset 1_3
+  - first:
+      213: -3830466822618862043
+    second: farming-tileset 1_4
+  - first:
+      213: -314910657818701070
+    second: farming-tileset 1_5
+  - first:
+      213: 8082789602727663476
+    second: farming-tileset 1_6
+  - first:
+      213: 4274328560051234590
+    second: farming-tileset 1_7
+  - first:
+      213: 8993013001167100670
+    second: farming-tileset 1_8
+  - first:
+      213: -1725024230217276861
+    second: farming-tileset 1_9
+  - first:
+      213: 2186213094565920542
+    second: farming-tileset 1_10
+  - first:
+      213: -9102857113916997753
+    second: farming-tileset 1_11
+  - first:
+      213: -2964624985476642415
+    second: farming-tileset 1_12
+  - first:
+      213: -1911085384434663337
+    second: farming-tileset 1_13
+  - first:
+      213: 8315964442162254272
+    second: farming-tileset 1_14
+  - first:
+      213: 625161799740747199
+    second: farming-tileset 1_15
+  - first:
+      213: 8279193159980299608
+    second: farming-tileset 1_16
+  - first:
+      213: 5176720891055030666
+    second: farming-tileset 1_17
+  - first:
+      213: -390584053061193955
+    second: farming-tileset 1_18
+  - first:
+      213: -4936278275450981401
+    second: farming-tileset 1_19
+  - first:
+      213: 8003277384977940787
+    second: farming-tileset 1_20
+  - first:
+      213: -5571779771785083442
+    second: farming-tileset 1_21
+  - first:
+      213: -2561175145915083400
+    second: farming-tileset 1_22
+  - first:
+      213: 4061565204473259498
+    second: farming-tileset 1_23
+  - first:
+      213: -1841814676389171528
+    second: farming-tileset 1_24
+  - first:
+      213: -4640361563884828165
+    second: farming-tileset 1_25
+  - first:
+      213: -6906407053652587918
+    second: farming-tileset 1_26
+  - first:
+      213: 9117353532170412755
+    second: farming-tileset 1_27
+  - first:
+      213: -3305884154471649080
+    second: farming-tileset 1_28
+  - first:
+      213: 4748640653209583434
+    second: farming-tileset 1_29
+  - first:
+      213: -1615099985808386104
+    second: farming-tileset 1_30
+  - first:
+      213: -6524876595574627287
+    second: farming-tileset 1_31
+  - first:
+      213: 1270645245120224775
+    second: farming-tileset 1_32
+  - first:
+      213: -1697110075214014253
+    second: farming-tileset 1_33
+  - first:
+      213: 4093827943444524537
+    second: farming-tileset 1_34
+  - first:
+      213: 423131520429601018
+    second: farming-tileset 1_35
+  - first:
+      213: 6251563470632796989
+    second: farming-tileset 1_36
+  - first:
+      213: 7860518698116581145
+    second: farming-tileset 1_37
+  - first:
+      213: 5022505775259235121
+    second: farming-tileset 1_38
+  - first:
+      213: 1020384294169538371
+    second: farming-tileset 1_39
+  - first:
+      213: 8808369695981174160
+    second: farming-tileset 1_40
+  - first:
+      213: 4630062553985006301
+    second: farming-tileset 1_41
+  - first:
+      213: -6396717359252500966
+    second: farming-tileset 1_42
+  - first:
+      213: 1950576279649985255
+    second: farming-tileset 1_43
+  - first:
+      213: -8269001749228895628
+    second: farming-tileset 1_44
+  - first:
+      213: 5259878404025108020
+    second: farming-tileset 1_45
+  - first:
+      213: -2224440958242292586
+    second: farming-tileset 1_46
+  - first:
+      213: -3249327938512126364
+    second: farming-tileset 1_47
+  - first:
+      213: 7605930428442707175
+    second: farming-tileset 1_48
+  - first:
+      213: -7370755040835794630
+    second: farming-tileset 1_49
+  - first:
+      213: 198452758814086289
+    second: farming-tileset 1_50
+  - first:
+      213: 3699165446367166953
+    second: farming-tileset 1_51
+  - first:
+      213: 2205217975600532382
+    second: farming-tileset 1_52
+  - first:
+      213: -5887712405027241095
+    second: farming-tileset 1_53
+  - first:
+      213: -8588814945039062530
+    second: farming-tileset 1_54
+  - first:
+      213: -2965629702099150111
+    second: farming-tileset 1_55
+  - first:
+      213: 879172463203941363
+    second: farming-tileset 1_56
+  - first:
+      213: 3634629756263263712
+    second: farming-tileset 1_57
+  - first:
+      213: -8435509848707691585
+    second: farming-tileset 1_58
+  - first:
+      213: -8640547563163412649
+    second: farming-tileset 1_59
+  - first:
+      213: 7641147596856147757
+    second: farming-tileset 1_60
+  - first:
+      213: -2088720801660609772
+    second: farming-tileset 1_61
+  - first:
+      213: -3303705451496923670
+    second: farming-tileset 1_62
+  - first:
+      213: -2420665760259646361
+    second: farming-tileset 1_63
+  - first:
+      213: -5265098587696958908
+    second: farming-tileset 1_64
+  - first:
+      213: -8663562673698369582
+    second: farming-tileset 1_65
+  - first:
+      213: -7744571718583523110
+    second: farming-tileset 1_66
+  - first:
+      213: 1885255680433796998
+    second: farming-tileset 1_67
+  - first:
+      213: -3002820128161403156
+    second: farming-tileset 1_68
+  - first:
+      213: -335407652244766949
+    second: farming-tileset 1_69
+  - first:
+      213: 355085063507752950
+    second: farming-tileset 1_70
+  - first:
+      213: 4734848553458985238
+    second: farming-tileset 1_71
+  - first:
+      213: 7954152685440505836
+    second: farming-tileset 1_72
+  - first:
+      213: 6598776577193678600
+    second: farming-tileset 1_73
+  - first:
+      213: -717225985024670632
+    second: farming-tileset 1_74
+  - first:
+      213: -5513799384707940100
+    second: farming-tileset 1_75
+  - first:
+      213: 1446318370496932708
+    second: farming-tileset 1_76
+  - first:
+      213: 8750200147824302837
+    second: farming-tileset 1_77
+  - first:
+      213: -1976646473403244308
+    second: farming-tileset 1_78
+  - first:
+      213: -8007123963462351575
+    second: farming-tileset 1_79
+  - first:
+      213: 3984607080482246099
+    second: farming-tileset 1_80
+  - first:
+      213: -623012034465112889
+    second: farming-tileset 1_81
+  - first:
+      213: -3263132024625495575
+    second: farming-tileset 1_82
+  - first:
+      213: 4596598147457179
+    second: farming-tileset 1_83
+  - first:
+      213: 6773339406994133726
+    second: farming-tileset 1_84
+  - first:
+      213: -3529864862978420149
+    second: farming-tileset 1_85
+  - first:
+      213: -1875055940968923280
+    second: farming-tileset 1_86
+  - first:
+      213: -1457432335809565502
+    second: farming-tileset 1_87
+  - first:
+      213: -1194319227433726654
+    second: farming-tileset 1_88
+  - first:
+      213: -6101795928098716866
+    second: farming-tileset 1_89
+  - first:
+      213: 2629778458361399873
+    second: farming-tileset 1_90
+  - first:
+      213: -4129275892116179923
+    second: farming-tileset 1_91
+  - first:
+      213: 4861557939801451644
+    second: farming-tileset 1_92
+  - first:
+      213: 851562451394402142
+    second: farming-tileset 1_93
+  - first:
+      213: 2298087963811304378
+    second: farming-tileset 1_94
+  - first:
+      213: 6289220173496334626
+    second: farming-tileset 1_95
+  - first:
+      213: -6032943821433920503
+    second: farming-tileset 1_96
+  - first:
+      213: 4777057592462592990
+    second: farming-tileset 1_97
+  - first:
+      213: -939395877724765346
+    second: farming-tileset 1_98
+  - first:
+      213: -4233403952311308388
+    second: farming-tileset 1_99
+  - first:
+      213: -7441827407676596542
+    second: farming-tileset 1_100
+  - first:
+      213: -2846835165551392625
+    second: farming-tileset 1_101
+  - first:
+      213: 6385211288000229496
+    second: farming-tileset 1_102
+  - first:
+      213: 7507018909419006368
+    second: farming-tileset 1_103
+  - first:
+      213: 2844591024397050749
+    second: farming-tileset 1_104
+  - first:
+      213: -2448535220896140640
+    second: farming-tileset 1_105
+  - first:
+      213: 5873616797913144689
+    second: farming-tileset 1_106
+  - first:
+      213: 4250214571170467826
+    second: farming-tileset 1_107
+  - first:
+      213: -3678606919181654064
+    second: farming-tileset 1_108
+  - first:
+      213: 8816643826436333181
+    second: farming-tileset 1_109
+  - first:
+      213: 451903747743221788
+    second: farming-tileset 1_110
+  - first:
+      213: -4000547256228858051
+    second: farming-tileset 1_111
+  - first:
+      213: 805535970584800515
+    second: farming-tileset 1_112
+  - first:
+      213: 290674430479508753
+    second: farming-tileset 1_113
+  - first:
+      213: 9133031611198824972
+    second: farming-tileset 1_114
+  - first:
+      213: -3862171784307077695
+    second: farming-tileset 1_115
+  - first:
+      213: -7124671047711974988
+    second: farming-tileset 1_116
+  - first:
+      213: 7756001807056386574
+    second: farming-tileset 1_117
+  - first:
+      213: 7840401286731765384
+    second: farming-tileset 1_118
+  - first:
+      213: 3280396652551124859
+    second: farming-tileset 1_119
+  - first:
+      213: 6544067328628636711
+    second: farming-tileset 1_120
+  - first:
+      213: 6277140759320502514
+    second: farming-tileset 1_121
+  - first:
+      213: 8169366294749983033
+    second: farming-tileset 1_122
+  - first:
+      213: 5590462569208418029
+    second: farming-tileset 1_123
+  - first:
+      213: -4754088386024087719
+    second: farming-tileset 1_124
+  - first:
+      213: 6199550690294675443
+    second: farming-tileset 1_125
+  - first:
+      213: -6918717026730446664
+    second: farming-tileset 1_126
+  - first:
+      213: -4476699113355245403
+    second: farming-tileset 1_127
+  - first:
+      213: 3851952869231504815
+    second: farming-tileset 1_128
+  - first:
+      213: 608350206078043739
+    second: farming-tileset 1_129
+  - first:
+      213: -4079753524259498230
+    second: farming-tileset 1_130
+  - first:
+      213: -3865647497529054276
+    second: farming-tileset 1_131
+  - first:
+      213: -3703056756836844398
+    second: farming-tileset 1_132
+  - first:
+      213: -8952385110017734441
+    second: farming-tileset 1_133
+  - first:
+      213: -1461919840950254578
+    second: farming-tileset 1_134
+  - first:
+      213: -9026895124979220580
+    second: farming-tileset 1_135
+  - first:
+      213: 6920353737477470962
+    second: farming-tileset 1_136
+  - first:
+      213: -143441618711079006
+    second: farming-tileset 1_137
+  - first:
+      213: 5090328919979230556
+    second: farming-tileset 1_138
+  - first:
+      213: 143162843217074959
+    second: farming-tileset 1_139
+  - first:
+      213: 3054206478593064597
+    second: farming-tileset 1_140
+  - first:
+      213: 3797185304861585760
+    second: farming-tileset 1_141
+  - first:
+      213: 7250057068394393557
+    second: farming-tileset 1_142
+  - first:
+      213: 1404052448800373697
+    second: farming-tileset 1_143
+  - first:
+      213: -5306263348558302117
+    second: farming-tileset 1_144
+  - first:
+      213: 7346217721439122247
+    second: farming-tileset 1_145
+  - first:
+      213: -3597116320820358826
+    second: farming-tileset 1_146
+  - first:
+      213: 5566271049896751107
+    second: farming-tileset 1_147
+  - first:
+      213: 2833520838601690730
+    second: farming-tileset 1_148
+  - first:
+      213: -5629031402190652660
+    second: farming-tileset 1_149
+  - first:
+      213: -7080688127142552347
+    second: farming-tileset 1_150
+  - first:
+      213: 5454339807210588651
+    second: farming-tileset 1_151
+  - first:
+      213: -385772681521157750
+    second: farming-tileset 1_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farming-tileset 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 321
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38105f24f57e4780800000000000000
+      internalID: -8696884138779600838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 354
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337baa964b18e2b40800000000000000
+      internalID: 5417410013640177459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 354
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd2b41d622d602c0800000000000000
+      internalID: -4465650916329312770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 354
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2338c0df421c750800000000000000
+      internalID: 6323376021060137686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 325
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e22e138b277dac0800000000000000
+      internalID: -3830466822618862043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 326
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f25bb8dc6631abf0800000000000000
+      internalID: -314910657818701070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 325
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4779dc8b156db2070800000000000000
+      internalID: 8082789602727663476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e172923dd27715b30800000000000000
+      internalID: 4274328560051234590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 302
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad8037da99dcc70800000000000000
+      internalID: 8993013001167100670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 306
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34225f82a9b7f08e0800000000000000
+      internalID: -1725024230217276861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 292
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fb8e8f93df65e10800000000000000
+      internalID: 2186213094565920542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 290
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ff6d31fa72ca180800000000000000
+      internalID: -9102857113916997753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 290
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ca6078498bd6d0800000000000000
+      internalID: -2964624985476642415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 289
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750c45dd7f57a75e0800000000000000
+      internalID: -1911085384434663337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 289
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c15cdba99d386370800000000000000
+      internalID: 8315964442162254272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbde0b838550da800800000000000000
+      internalID: 625161799740747199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855387f505a95e270800000000000000
+      internalID: 8279193159980299608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 290
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81cda4193867d740800000000000000
+      internalID: 5176720891055030666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fea568fdd549af0800000000000000
+      internalID: -390584053061193955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 290
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3344fdf01de7bb0800000000000000
+      internalID: -4936278275450981401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 287
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3310782e06a511f60800000000000000
+      internalID: 8003277384977940787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 270
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec50b0071df0da2b0800000000000000
+      internalID: -5571779771785083442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 274
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8751c2446c0e47cd0800000000000000
+      internalID: -2561175145915083400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 270
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae527bcc8049d5830800000000000000
+      internalID: 4061565204473259498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 274
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bee8b76f4f8076e0800000000000000
+      internalID: -1841814676389171528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 270
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9c44b4ebf1a9fb0800000000000000
+      internalID: -4640361563884828165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 270
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a09cc50638720a0800000000000000
+      internalID: -6906407053652587918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 270
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2aba05bb8578e70800000000000000
+      internalID: 9117353532170412755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 272
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0ff1870e32f12d0800000000000000
+      internalID: -3305884154471649080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 270
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f3984c38f86e140800000000000000
+      internalID: 4748640653209583434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 272
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7172dbe130699e0800000000000000
+      internalID: -1615099985808386104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 270
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924a38d7e4bf275a0800000000000000
+      internalID: -6524876595574627287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_32
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 273
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e1ee64e1d32a110800000000000000
+      internalID: 1270645245120224775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 256
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8d126d067a278e0800000000000000
+      internalID: -1697110075214014253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 273
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd249413d230d830800000000000000
+      internalID: 4093827943444524537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 255
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af03a7040e34fd500800000000000000
+      internalID: 423131520429601018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 255
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3340e5bad302c650800000000000000
+      internalID: 6251563470632796989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170e8feb1c261d60800000000000000
+      internalID: 7860518698116581145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 258
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133bca8646683b540800000000000000
+      internalID: 5022505775259235121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fec5cfb12292e00800000000000000
+      internalID: 1020384294169538371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 258
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09df54bd19d9d3a70800000000000000
+      internalID: 8808369695981174160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 255
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda3d1a9c59414040800000000000000
+      internalID: 4630062553985006301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e0e29f37b4a37a0800000000000000
+      internalID: -6396717359252500966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 258
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e227dfaac6d11b10800000000000000
+      internalID: 1950576279649985255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 255
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472c02a58ba9e3d80800000000000000
+      internalID: -8269001749228895628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4364aa95a87def840800000000000000
+      internalID: 5259878404025108020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 255
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c732cebb23121e0800000000000000
+      internalID: -2224440958242292586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e7b32a47118e2d0800000000000000
+      internalID: -3249327938512126364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_48
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 255
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e489ad3d61bd8960800000000000000
+      internalID: 7605930428442707175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 228
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a390090a751d5b990800000000000000
+      internalID: -7370755040835794630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 228
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945fc19bbb01c200800000000000000
+      internalID: 198452758814086289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e14d1cdf53165330800000000000000
+      internalID: 3699165446367166953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc9f7a0128a9e10800000000000000
+      internalID: 2205217975600532382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 230
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973c0b613c4aa4ea0800000000000000
+      internalID: -5887712405027241095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 231
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9616f10566ec880800000000000000
+      internalID: -8588814945039062530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_55
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 232
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea580f9f77f7d6d0800000000000000
+      internalID: -2965629702099150111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_56
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 228
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb739d72b2733c00800000000000000
+      internalID: 879172463203941363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 228
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ede228918cc07230800000000000000
+      internalID: 3634629756263263712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_58
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 231
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb08706c7c0fea80800000000000000
+      internalID: -8435509848707691585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 232
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75717c855cb961880800000000000000
+      internalID: -8640547563163412649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_60
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 232
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fb0fa314fca0a60800000000000000
+      internalID: 7641147596856147757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_61
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bdc065f7f5303e0800000000000000
+      internalID: -2088720801660609772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 195
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed11094561e622d0800000000000000
+      internalID: -3303705451496923670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_63
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cd5c7f051186ed0800000000000000
+      internalID: -2420665760259646361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 198
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44279eceabc9ee6b0800000000000000
+      internalID: -5265098587696958908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 198
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df00e856a7d4c780800000000000000
+      internalID: -8663562673698369582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_66
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 197
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8ea40fd01c58490800000000000000
+      internalID: -7744571718583523110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 198
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6873b078d06c92a10800000000000000
+      internalID: 1885255680433796998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 199
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeeb88c007d356d0800000000000000
+      internalID: -3002820128161403156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_69
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 195
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fb0017484685bf0800000000000000
+      internalID: -335407652244766949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_70
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 195
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f73d63ebf38de400800000000000000
+      internalID: 355085063507752950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_71
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 198
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619e13e4caf85b140800000000000000
+      internalID: 4734848553458985238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_72
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 199
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce796e879b3d26e60800000000000000
+      internalID: 7954152685440505836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8071ccbc550939b50800000000000000
+      internalID: 6598776577193678600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_74
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854cce244c6eb06f0800000000000000
+      internalID: -717225985024670632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf047b74cac0b73b0800000000000000
+      internalID: -5513799384707940100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b679125ea521410800000000000000
+      internalID: 1446318370496932708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_77
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa53a48ca4fe6970800000000000000
+      internalID: 8750200147824302837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 164
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce06542518a8194e0800000000000000
+      internalID: -1976646473403244308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_79
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9250f45cd2bf0e090800000000000000
+      internalID: -8007123963462351575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_80
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd86a1470b2c4730800000000000000
+      internalID: 3984607080482246099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_81
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccd9e20bdd9a57f0800000000000000
+      internalID: -623012034465112889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_82
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e10ff066b607b2d0800000000000000
+      internalID: -3263132024625495575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_83
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9021c7e494501000800000000000000
+      internalID: 4596598147457179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_84
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 164
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed25a01dd4cbffd50800000000000000
+      internalID: 6773339406994133726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_85
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 164
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d901fb96630fc0800000000000000
+      internalID: -3529864862978420149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_86
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fbf806e867af5e0800000000000000
+      internalID: -1875055940968923280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc27eb230926cbe0800000000000000
+      internalID: -1457432335809565502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc46c8dfcec6fe0800000000000000
+      internalID: -1194319227433726654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3340cd9ee0125ba0800000000000000
+      internalID: -6101795928098716866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a0b902399de7420800000000000000
+      internalID: 2629778458361399873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24b4d6347dd1b6c0800000000000000
+      internalID: -4129275892116179923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_92
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c68d84039b77340800000000000000
+      internalID: 4861557939801451644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_93
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e579c6ba98b51db00800000000000000
+      internalID: 851562451394402142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_94
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3d299c3d274ef10800000000000000
+      internalID: 2298087963811304378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_95
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22938731d6cc74750800000000000000
+      internalID: 6289220173496334626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9042b8dee8da64ca0800000000000000
+      internalID: -6032943821433920503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_97
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 131
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbc05602948b4240800000000000000
+      internalID: 4777057592462592990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_98
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 131
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53cfb42d6896f2f0800000000000000
+      internalID: -939395877724765346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_99
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fefbfe88def35c0800000000000000
+      internalID: -4233403952311308388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_100
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce9ba5b66159b890800000000000000
+      internalID: -7441827407676596542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88083700820e78d0800000000000000
+      internalID: -2846835165551392625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_102
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870711d06d3dc9850800000000000000
+      internalID: 6385211288000229496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_103
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 101
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a96f0a9ce94e2860800000000000000
+      internalID: 7507018909419006368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_104
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73637427740a7720800000000000000
+      internalID: 2844591024397050749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_105
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 104
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2f372803e050ed0800000000000000
+      internalID: -2448535220896140640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_106
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 96
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d5162ab57438150800000000000000
+      internalID: 5873616797913144689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_107
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 98
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff0ec542abcbfa30800000000000000
+      internalID: 4250214571170467826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_108
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 98
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d722e14f76f2fcc0800000000000000
+      internalID: -3678606919181654064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_109
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 98
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed0e9f8d20b5a70800000000000000
+      internalID: 8816643826436333181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_110
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 98
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1807e4701c754600800000000000000
+      internalID: 451903747743221788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_111
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 101
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37b05d57733b78c0800000000000000
+      internalID: -4000547256228858051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 101
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da18482b6dd2b00800000000000000
+      internalID: 805535970584800515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_113
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 104
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115250ebadea80400800000000000000
+      internalID: 290674430479508753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 63
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c026beb8cdb0fbe70800000000000000
+      internalID: 9133031611198824972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_115
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd07de893fc66ac0800000000000000
+      internalID: -3862171784307077695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_116
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b91e932e65102d90800000000000000
+      internalID: -7124671047711974988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_117
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a32eaec8ad2ab60800000000000000
+      internalID: 7756001807056386574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_118
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 71
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88699281e63becc60800000000000000
+      internalID: 7840401286731765384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77b0bd006f468d20800000000000000
+      internalID: 3280396652551124859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c362d309231da50800000000000000
+      internalID: 6544067328628636711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_121
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 65
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0ac6c4342ec1750800000000000000
+      internalID: 6277140759320502514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_122
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 65
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9313f96ac5b6f5170800000000000000
+      internalID: 8169366294749983033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_123
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 65
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee09cf4610559d40800000000000000
+      internalID: 5590462569208418029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_124
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 68
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f59381dc5160eb0800000000000000
+      internalID: -4754088386024087719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_125
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 68
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7ba06918a390650800000000000000
+      internalID: 6199550690294675443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_126
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 71
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0f8486587cbff90800000000000000
+      internalID: -6918717026730446664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_127
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8872effd19fd1c0800000000000000
+      internalID: -4476699113355245403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_128
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad271ed9b2e47530800000000000000
+      internalID: 3851952869231504815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_129
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 37
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56415c0a4b417800800000000000000
+      internalID: 608350206078043739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_130
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a075d5ff8cdc167c0800000000000000
+      internalID: -4079753524259498230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_131
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 40
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb27e205167a5ac0800000000000000
+      internalID: -3865647497529054276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_132
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c31a1df791c9cc0800000000000000
+      internalID: -3703056756836844398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_133
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d885e89c2db2c380800000000000000
+      internalID: -8952385110017734441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_134
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 34
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04801676a736bbe0800000000000000
+      internalID: -1461919840950254578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_135
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 34
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f78ead5b60ab280800000000000000
+      internalID: -9026895124979220580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa34620f090a0060800000000000000
+      internalID: 6920353737477470962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a718b69b94620ef0800000000000000
+      internalID: -143441618711079006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_138
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c558249de2b74a640800000000000000
+      internalID: 5090328919979230556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_139
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 34
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b1dfee8dd9cf100800000000000000
+      internalID: 143162843217074959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_140
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e7c334c98b26a20800000000000000
+      internalID: 3054206478593064597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_141
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061bb9a9aef42b430800000000000000
+      internalID: 3797185304861585760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_142
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df25f2cd706d9460800000000000000
+      internalID: 7250057068394393557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_143
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb73c063423c7310800000000000000
+      internalID: 1404052448800373697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_144
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54f188299d5c56b0800000000000000
+      internalID: -5306263348558302117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743fe01881203f560800000000000000
+      internalID: 7346217721439122247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6511eb9b3c9741ec0800000000000000
+      internalID: -3597116320820358826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_147
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300f2ac470e5f3d40800000000000000
+      internalID: 5566271049896751107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_148
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e4588a030b25720800000000000000
+      internalID: 2833520838601690730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b38ea73c9a1e1b0800000000000000
+      internalID: -5629031402190652660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec9758d9a75cbd90800000000000000
+      internalID: -7080688127142552347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be94f050825b1bb40800000000000000
+      internalID: 5454339807210588651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming-tileset 1_152
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89a1e14ac575aaf0800000000000000
+      internalID: -385772681521157750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      farming-tileset 1_0: -8696884138779600838
+      farming-tileset 1_1: 5417410013640177459
+      farming-tileset 1_10: 2186213094565920542
+      farming-tileset 1_100: -7441827407676596542
+      farming-tileset 1_101: -2846835165551392625
+      farming-tileset 1_102: 6385211288000229496
+      farming-tileset 1_103: 7507018909419006368
+      farming-tileset 1_104: 2844591024397050749
+      farming-tileset 1_105: -2448535220896140640
+      farming-tileset 1_106: 5873616797913144689
+      farming-tileset 1_107: 4250214571170467826
+      farming-tileset 1_108: -3678606919181654064
+      farming-tileset 1_109: 8816643826436333181
+      farming-tileset 1_11: -9102857113916997753
+      farming-tileset 1_110: 451903747743221788
+      farming-tileset 1_111: -4000547256228858051
+      farming-tileset 1_112: 805535970584800515
+      farming-tileset 1_113: 290674430479508753
+      farming-tileset 1_114: 9133031611198824972
+      farming-tileset 1_115: -3862171784307077695
+      farming-tileset 1_116: -7124671047711974988
+      farming-tileset 1_117: 7756001807056386574
+      farming-tileset 1_118: 7840401286731765384
+      farming-tileset 1_119: 3280396652551124859
+      farming-tileset 1_12: -2964624985476642415
+      farming-tileset 1_120: 6544067328628636711
+      farming-tileset 1_121: 6277140759320502514
+      farming-tileset 1_122: 8169366294749983033
+      farming-tileset 1_123: 5590462569208418029
+      farming-tileset 1_124: -4754088386024087719
+      farming-tileset 1_125: 6199550690294675443
+      farming-tileset 1_126: -6918717026730446664
+      farming-tileset 1_127: -4476699113355245403
+      farming-tileset 1_128: 3851952869231504815
+      farming-tileset 1_129: 608350206078043739
+      farming-tileset 1_13: -1911085384434663337
+      farming-tileset 1_130: -4079753524259498230
+      farming-tileset 1_131: -3865647497529054276
+      farming-tileset 1_132: -3703056756836844398
+      farming-tileset 1_133: -8952385110017734441
+      farming-tileset 1_134: -1461919840950254578
+      farming-tileset 1_135: -9026895124979220580
+      farming-tileset 1_136: 6920353737477470962
+      farming-tileset 1_137: -143441618711079006
+      farming-tileset 1_138: 5090328919979230556
+      farming-tileset 1_139: 143162843217074959
+      farming-tileset 1_14: 8315964442162254272
+      farming-tileset 1_140: 3054206478593064597
+      farming-tileset 1_141: 3797185304861585760
+      farming-tileset 1_142: 7250057068394393557
+      farming-tileset 1_143: 1404052448800373697
+      farming-tileset 1_144: -5306263348558302117
+      farming-tileset 1_145: 7346217721439122247
+      farming-tileset 1_146: -3597116320820358826
+      farming-tileset 1_147: 5566271049896751107
+      farming-tileset 1_148: 2833520838601690730
+      farming-tileset 1_149: -5629031402190652660
+      farming-tileset 1_15: 625161799740747199
+      farming-tileset 1_150: -7080688127142552347
+      farming-tileset 1_151: 5454339807210588651
+      farming-tileset 1_152: -385772681521157750
+      farming-tileset 1_16: 8279193159980299608
+      farming-tileset 1_17: 5176720891055030666
+      farming-tileset 1_18: -390584053061193955
+      farming-tileset 1_19: -4936278275450981401
+      farming-tileset 1_2: -4465650916329312770
+      farming-tileset 1_20: 8003277384977940787
+      farming-tileset 1_21: -5571779771785083442
+      farming-tileset 1_22: -2561175145915083400
+      farming-tileset 1_23: 4061565204473259498
+      farming-tileset 1_24: -1841814676389171528
+      farming-tileset 1_25: -4640361563884828165
+      farming-tileset 1_26: -6906407053652587918
+      farming-tileset 1_27: 9117353532170412755
+      farming-tileset 1_28: -3305884154471649080
+      farming-tileset 1_29: 4748640653209583434
+      farming-tileset 1_3: 6323376021060137686
+      farming-tileset 1_30: -1615099985808386104
+      farming-tileset 1_31: -6524876595574627287
+      farming-tileset 1_32: 1270645245120224775
+      farming-tileset 1_33: -1697110075214014253
+      farming-tileset 1_34: 4093827943444524537
+      farming-tileset 1_35: 423131520429601018
+      farming-tileset 1_36: 6251563470632796989
+      farming-tileset 1_37: 7860518698116581145
+      farming-tileset 1_38: 5022505775259235121
+      farming-tileset 1_39: 1020384294169538371
+      farming-tileset 1_4: -3830466822618862043
+      farming-tileset 1_40: 8808369695981174160
+      farming-tileset 1_41: 4630062553985006301
+      farming-tileset 1_42: -6396717359252500966
+      farming-tileset 1_43: 1950576279649985255
+      farming-tileset 1_44: -8269001749228895628
+      farming-tileset 1_45: 5259878404025108020
+      farming-tileset 1_46: -2224440958242292586
+      farming-tileset 1_47: -3249327938512126364
+      farming-tileset 1_48: 7605930428442707175
+      farming-tileset 1_49: -7370755040835794630
+      farming-tileset 1_5: -314910657818701070
+      farming-tileset 1_50: 198452758814086289
+      farming-tileset 1_51: 3699165446367166953
+      farming-tileset 1_52: 2205217975600532382
+      farming-tileset 1_53: -5887712405027241095
+      farming-tileset 1_54: -8588814945039062530
+      farming-tileset 1_55: -2965629702099150111
+      farming-tileset 1_56: 879172463203941363
+      farming-tileset 1_57: 3634629756263263712
+      farming-tileset 1_58: -8435509848707691585
+      farming-tileset 1_59: -8640547563163412649
+      farming-tileset 1_6: 8082789602727663476
+      farming-tileset 1_60: 7641147596856147757
+      farming-tileset 1_61: -2088720801660609772
+      farming-tileset 1_62: -3303705451496923670
+      farming-tileset 1_63: -2420665760259646361
+      farming-tileset 1_64: -5265098587696958908
+      farming-tileset 1_65: -8663562673698369582
+      farming-tileset 1_66: -7744571718583523110
+      farming-tileset 1_67: 1885255680433796998
+      farming-tileset 1_68: -3002820128161403156
+      farming-tileset 1_69: -335407652244766949
+      farming-tileset 1_7: 4274328560051234590
+      farming-tileset 1_70: 355085063507752950
+      farming-tileset 1_71: 4734848553458985238
+      farming-tileset 1_72: 7954152685440505836
+      farming-tileset 1_73: 6598776577193678600
+      farming-tileset 1_74: -717225985024670632
+      farming-tileset 1_75: -5513799384707940100
+      farming-tileset 1_76: 1446318370496932708
+      farming-tileset 1_77: 8750200147824302837
+      farming-tileset 1_78: -1976646473403244308
+      farming-tileset 1_79: -8007123963462351575
+      farming-tileset 1_8: 8993013001167100670
+      farming-tileset 1_80: 3984607080482246099
+      farming-tileset 1_81: -623012034465112889
+      farming-tileset 1_82: -3263132024625495575
+      farming-tileset 1_83: 4596598147457179
+      farming-tileset 1_84: 6773339406994133726
+      farming-tileset 1_85: -3529864862978420149
+      farming-tileset 1_86: -1875055940968923280
+      farming-tileset 1_87: -1457432335809565502
+      farming-tileset 1_88: -1194319227433726654
+      farming-tileset 1_89: -6101795928098716866
+      farming-tileset 1_9: -1725024230217276861
+      farming-tileset 1_90: 2629778458361399873
+      farming-tileset 1_91: -4129275892116179923
+      farming-tileset 1_92: 4861557939801451644
+      farming-tileset 1_93: 851562451394402142
+      farming-tileset 1_94: 2298087963811304378
+      farming-tileset 1_95: 6289220173496334626
+      farming-tileset 1_96: -6032943821433920503
+      farming-tileset 1_97: 4777057592462592990
+      farming-tileset 1_98: -939395877724765346
+      farming-tileset 1_99: -4233403952311308388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
